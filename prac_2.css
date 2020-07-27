@@ -1,0 +1,13 @@
+.box-container{
+    width:400px;
+    height:110px;
+    display:flex;
+    border:3px;
+}
+
+.box{
+    width:100px;
+    height:100px;
+    background-color: lightcoral;
+    margin:5px;
+}

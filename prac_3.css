@@ -1,0 +1,28 @@
+.box-container{
+    width: 600px;
+    height:110px;
+    display:flex;
+    justify-content:flex-start;
+    border:3px;
+}
+.box-container2{
+    width: 600px;
+    height:110px;
+    display:flex;
+    justify-content:center;
+    border:3px;
+}
+.box-container3{
+    width: 600px;
+    height:110px;
+    display:flex;
+    justify-content:flex-end;
+    border:3px;
+}
+
+.box{
+    width:100px;
+    height:100px;
+    background-color: lightcoral;
+    margin:5px;
+}
